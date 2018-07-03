@@ -41,6 +41,7 @@ var simple_mixins = [
   "transition-duration",
   "transition-property",
   "transition",
+  "transform",
   "word-break",
   "user-select"
 ];
