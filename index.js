@@ -26,6 +26,8 @@ var argv = require("yargs")
 
 // These just output the arguments as a string
 var simple_mixins = [
+  "background",
+  "background-image",
   "background-size",
   "border-radius",
   "border-top-right-radius",
